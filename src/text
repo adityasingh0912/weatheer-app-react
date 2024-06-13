@@ -1,0 +1,6 @@
+http://api.openweathermap.org/geo/1.0/direct?q={city name}&limit=5&appid={API key}
+
+
+https://api.openweathermap.org/data/2.5/weather?q=london&limit=5&appid=e0bd40afec1ff79ee7a1c56325451989`
+  
+  
